@@ -1,0 +1,85 @@
+Starting test episode 1/10
+Episode 1 completed:
+  Total Reward: -5181.14
+  Steps: 2000
+  Vehicles Passed: 2380
+  Avg Waiting Time: 55727.0
+  Avg Queue Length: 89.7
+
+Starting test episode 2/10
+Episode 2 completed:
+  Total Reward: -5280.89
+  Steps: 2000
+  Vehicles Passed: 2378
+  Avg Waiting Time: 57061.4
+  Avg Queue Length: 91.1
+
+Starting test episode 3/10
+Episode 3 completed:
+  Total Reward: -5120.27
+  Steps: 2000
+  Vehicles Passed: 2356
+  Avg Waiting Time: 54832.3
+  Avg Queue Length: 89.1
+
+Starting test episode 4/10
+Episode 4 completed:
+  Total Reward: -5451.35
+  Steps: 2000
+  Vehicles Passed: 2457
+  Avg Waiting Time: 59265.5
+  Avg Queue Length: 94.1
+
+Starting test episode 5/10
+Episode 5 completed:
+  Total Reward: -5428.26
+  Steps: 2000
+  Vehicles Passed: 2391
+  Avg Waiting Time: 58694.1
+  Avg Queue Length: 93.0
+
+Starting test episode 6/10
+Episode 6 completed:
+  Total Reward: -5285.43
+  Steps: 2000
+  Vehicles Passed: 2435
+  Avg Waiting Time: 56858.8
+  Avg Queue Length: 91.9
+
+Starting test episode 7/10
+Episode 7 completed:
+  Total Reward: -5359.76
+  Steps: 2000
+  Vehicles Passed: 2302
+  Avg Waiting Time: 57196.6
+  Avg Queue Length: 91.1
+
+Starting test episode 8/10
+Episode 8 completed:
+  Total Reward: -5347.49
+  Steps: 2000
+  Vehicles Passed: 2394
+  Avg Waiting Time: 58055.8
+  Avg Queue Length: 92.5
+
+Starting test episode 9/10
+Episode 9 completed:
+  Total Reward: -5144.02
+  Steps: 2000
+  Vehicles Passed: 2359
+  Avg Waiting Time: 54884.2
+  Avg Queue Length: 89.8
+
+Starting test episode 10/10
+Episode 10 completed:
+  Total Reward: -5387.43
+  Steps: 2000
+  Vehicles Passed: 2414
+  Avg Waiting Time: 59187.2
+  Avg Queue Length: 92.8
+
+=== TESTING COMPLETED ===
+Episodes tested: 10
+Average reward: -5298.60
+Total vehicles processed: 23866
+Overall average waiting time: 57176.3
