@@ -21,3 +21,5 @@ This project implements an **adaptive traffic signal control system** using **De
   - Queue length.
   - Throughput (vehicles passed).
   - Queue balance across directions.
+- Reduced congestion ~10% vs fixed-time baseline and improved intersection througput.
+- Built the simulation environment and real-time visualization using PyGame, enabling iterative training and policy evaluation.
